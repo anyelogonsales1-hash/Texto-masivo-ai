@@ -1,0 +1,6 @@
+{
+  "name": "DocuChunk AI",
+  "description": "Procesamiento masivo de documentos con IA por partes: traducción, resumen, ortografía y estilo con persistencia y pausa por cuota de tokens.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
